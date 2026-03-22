@@ -13,6 +13,11 @@
 📊 WakaTime Stats.
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="center">🚀 Tech Stack</h2>
