@@ -10,8 +10,7 @@
 <img src="https://img.shields.io/badge/Status-Grinding-orange?style=for-the-badge&labelColor=black"/>
 </p>
 
-📊 WakaTime Stats.
-
+<h2 align="center"> 💻 Dev Activity</h2>
 <!--START_SECTION:waka-->
 
 ```txt
