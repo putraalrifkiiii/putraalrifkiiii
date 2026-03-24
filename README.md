@@ -14,8 +14,7 @@
 
 <h2 align="center"> 💻 Dev Activity</h2>
 <!--START_SECTION:waka-->
-<div align="center"> 
-  
+
 ```txt
 TypeScript   1 hr 48 mins          ███████████▓░░░░░░░░░░░░░   46.85 %
 Bash         54 mins               ██████░░░░░░░░░░░░░░░░░░░   23.49 %
@@ -23,7 +22,7 @@ Prisma       49 mins               █████▒░░░░░░░░░
 JSON         16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 Markdown     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
-</div>
+
 <!--END_SECTION:waka-->  
 <br></br>
 <h2 align="center">🚀 Tech Stack</h2>
