@@ -19,9 +19,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP             11 hrs 9 mins         ████████████████████████▓   99.05 %
-Bash            6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Apache Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP             8 hrs 45 mins         █████████████████████████   99.97 %
+Apache Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->  
